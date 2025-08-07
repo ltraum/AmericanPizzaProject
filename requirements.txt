@@ -1,0 +1,7 @@
+text_lloom>=0.8.0
+pyyaml
+pandas
+openpyxl
+notebook
+bertopic
+sentence-transformers
