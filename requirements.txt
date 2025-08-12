@@ -1,7 +1,18 @@
-text_lloom>=0.8.0
+# Core
+pandas>=2.0
+openpyxl>=3.1
 pyyaml
-pandas
-openpyxl
+
+# LLooM workbench (concept induction)
+text_lloom>=0.8.0
+
+# Jupyter & notebooks
 notebook
+
+# NLP & clustering (used in notebooks, may not be needed for app)
 bertopic
 sentence-transformers
+
+# Streamlit app
+streamlit>=1.36
+python-dotenv>=1.0
