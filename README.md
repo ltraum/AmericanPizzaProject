@@ -17,7 +17,7 @@ The American Pizza Project aims to capture the diverse philosophies and regional
 
 Following the survey, paticipants were asked to complete a brief survey detailing their place of residence, age, income, and diatary restrictions.
 
-At the crux of the American Pizza Project lies the goal of identifying themes of the pizza experience that carry relevence beyond any one individual, and to this end we can explore computational tools! Play with the Jupyter notebooks to examine how well the inductive themebuilder Lloom extracts themes from the data under varied input and theme steering conditions! **Under what conditions is Lloom's theme gathering of the American Pizza Project most insightful?** The hope is to eventually expand exploration to include other themebuilding tools beyond Lloom as well.
+At the crux of the American Pizza Project lies the goal of identifying themes of the pizza experience that carry relevance beyond any one individual, and,  to achieve this end, we can explore computational tools! Play with the Jupyter notebooks to examine how well the inductive themebuilder Lloom extracts themes from the data under varied input and theme steering conditions! **Under what conditions is Lloom's theme gathering of the American Pizza Project most insightful?** The hope is to eventually expand exploration to include other themebuilding tools beyond Lloom as well.
 
 In the notebooks as they currently stand, articularly interesting experimentation comes in choosing specific or broad seed theme terms (eg. "cheese" vs "taste") and/or choosing different unit input chunks of data to be analyzed. (eg. q1 vs q1+q2 vs q1+q2+q3 vs all)
 Note, if number of participants is too small or if seed theme is too far-fetched from responses, an error will occur.
