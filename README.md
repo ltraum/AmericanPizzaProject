@@ -3,7 +3,7 @@
 Welcome to the American Pizza Project! 
 
 
-The American Pizza Project aims to capture the diverse philosophies and regional differences in pizza appreciation across the United States. A nationally representative set of pseudo interviews was conducted (Thanks Claude!) in which each participant provided detailed responses (around 200 words) to the following prompts about their personal pizza preferences and experiences:
+The American Pizza Project aims to capture the diverse philosophies and regional differences in pizza appreciation across the United States. A nationally representative set of pseudo interviews was conducted (Thanks Claude!) in which each participant provided detailed responses (around 200 words) to the following prompts about their personal pizza related life experiences:
 
 1) Describe a turning point in your life when your taste or appreciation for pizza changed. Share the story or explain why there hasn't been a change.
 
